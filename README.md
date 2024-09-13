@@ -2,3 +2,31 @@
 Creating a new repository for CPTS 101 class
 
 Evan Durocher - evan.durocher@wsu.edu
+
+
+Evan Durocher
+Phone: xxx-xxx-xxxx | Email: evan.durocher@wsu.edu
+
+
+SUMMARY OF QUALIFICATIONS:
+Strong understanding of both Javascript along with C/C++ 
+Comprehension of higher levels of math 
+A want for more information around all subjects regarding programing
+Strong problem solving skills which have been applied to create college level or higher solutions
+EDUCATION:
+Bachelor of Science in Computer Science; GPA: ~3.75                    Expected May 2028
+Washington State University, Pullman, WA
+
+SKILLS:
+C, Javascript, C++, Excel, Lab Based problem solving, Blender
+
+RELATIVE EXPERIENCES:
+Organizations: Cougar Car Club (tuning requires a deeper understanding of how the computer systems work within a motor vehicle)
+Community Service: Projects to help regrow nature in my local area
+Experiences: WSU hosted career fairs revolving around the computer science and computer engineering fields 
+
+OTHER EXPERIENCES:
+Worked for 5 years as a minor league soccer referee
+Worked for 1 year as a lifeguard for a local community pool
+Both of these I left on good terms on my own time
+
